@@ -1,0 +1,136 @@
+body {
+    background-color: hsl(217, 59%, 63%);
+    color: white;
+
+
+}
+
+nav ul {
+    display: flex;
+    gap: 100px;
+    list-style: none;
+
+}
+
+nav {
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.first-paragraph {
+
+    color: white;
+}
+
+.Acess-anywhere {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    gap: 100px;
+  
+
+}
+.bcgimg{
+      background-image: url(images/bg-curvy-desktop.svg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 45rem;
+
+}
+.security-trust {
+    color: white;
+}
+
+.Real-time {
+
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    gap: 100px;
+}
+
+.store-file {
+
+    color: white;
+}
+
+.stay-productive {
+ display: flex;
+ justify-content: center;
+ gap: 50px;
+ margin-top: 5%;
+
+}
+.testimonials{
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 5%;
+
+}
+.testimonials img{
+    width: 15%;
+    height: 15%;
+    border-radius: 100%;
+    margin-top: 7%;
+}
+
+.test{
+       background-color: hsl(219, 30%, 18%) ;
+       padding: 2%; 
+       
+}
+
+.first-paragraph {
+    text-align: center;
+
+
+}
+
+.button {
+    color: hsl(176, 68%, 64%);
+}
+.images{
+        display: flex;
+gap: 50px;
+}
+.image6{
+    display: flex;
+gap: 50px;
+}
+.image7{
+display: flex;
+gap: 50px;
+}.early-access{
+background-color: hsl(219, 30%, 18%);
+width: 19%;
+text-align: center;
+margin: auto;
+padding: 2%;
+
+
+}
+footer{
+display: flex;
+justify-content: space-around;
+background-color:hsl(216, 53%, 9%) ;
+padding: 3%;
+
+}.fylo{
+display: flex;
+gap: 50px;
+
+
+}
+.fylo img{
+    margin-top: 7%;
+}
+footer ul{
+    list-style: none;
+}.im{
+display: flex;
+
+
+}
